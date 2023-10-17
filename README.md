@@ -19,5 +19,5 @@ docker-compose start
 Если ввести некорректные данные, ошибка обработается  
 ![alt text](https://github.com/LuckyHorseshoe-chan/BewiseTest/blob/main/imgs/bad_query.jpg)  
 ![alt text](https://github.com/LuckyHorseshoe-chan/BewiseTest/blob/main/imgs/format_err.jpg)  
-![alt text](https://github.com/LuckyHorseshoe-chan/BewiseTest/blob/main/imgs/bad_query2.jpg)  
+![alt text](https://github.com/LuckyHorseshoe-chan/BewiseTest/blob/main/imgs/bad_query_2.jpg)  
 ![alt text](https://github.com/LuckyHorseshoe-chan/BewiseTest/blob/main/imgs/num_err.jpg)  
