@@ -1,4 +1,4 @@
-Тестовое задание для Bewise на позицию Python-разработчик (Junior)
+Тестовое задание для Bewise на позицию Python-разработчик (Junior)  
 Собрать образы:  
 ```
 docker-compose up -d --build
